@@ -10,4 +10,4 @@ Hi there👋, I'm Cécile !
 - ⚡ Fun fact: ...
 
 💻 Tech Stack (Junior):
-CSS3 HTML5 JavaScript jQuery GithubPages 
+CSS3 HTML5 JavaScript jQuery Git/Github
