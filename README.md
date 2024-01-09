@@ -1,4 +1,4 @@
-Hi there ! I'm Cécile ! 👋
+Hi there👋, I'm Cécile ! 
 
 - 🔭 I’m currently working on my Web Developper Training.
 - 🌱 I’m currently learning Object-Oriented Programming.
