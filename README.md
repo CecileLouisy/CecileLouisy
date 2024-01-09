@@ -1,4 +1,4 @@
-Hi there👋, I'm Cécile ! 
+<h1>Hi there👋, I'm Cécile ! </h1>
 
 - 🔭 I’m currently working on my Web Developper Training.
 - 🌱 I’m currently learning Object-Oriented Programming.
@@ -9,5 +9,5 @@ Hi there👋, I'm Cécile !
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-💻 Tech Stack (Junior):
+<h2>💻 Tech Stack (Junior) </h2>
 CSS3 HTML5 JavaScript jQuery Git/Github
