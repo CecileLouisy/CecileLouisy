@@ -10,4 +10,4 @@
 - ⚡ Fun fact: ...
 
 <h2>💻 Tech Stack (Junior) </h2>
-HTML5 CSS3 TailWindCSS JavaScript jQuery React SQL PHP Laravel Git/Github SEO Eco-conception
+HTML5 CSS3 TailWindCSS JavaScript React SQL PHP Laravel Git/Github SEO Eco-conception
